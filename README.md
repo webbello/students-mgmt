@@ -1,5 +1,5 @@
 # Student Management
-### Created By [Sangwin Gawande](http://imsangwin.com)
+### Created By [Md Irfan](http://iirs.gov.in)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.3.
 
